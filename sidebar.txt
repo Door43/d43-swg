@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swg:home|Door43 (swg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swg|d43-swg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swg/archive/master.zip|d43-swg.zip]]
+
+**Recent Changes**
+{{changes>ns = swg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swg|Ethnologue data]]
+
