@@ -1,0 +1,9 @@
+
+----
+~~NOCACHE~~
+**[[swg:obs|Open Bible Stories]]**
+
+{{page>swg:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = swg:obs}}
